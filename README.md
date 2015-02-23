@@ -16,3 +16,5 @@ In this exercise you must will solve a number of challenges for manipulating and
 
 4. Using the Array map() method write a function that takes an array of strings as input and
 returns a duplicate array with all strings in pig latin form. (Ex. "metal" => "etalmay".) Note: For now, do not worry about words like "chicken". Instead of "ickenchay", it should just become "hickencay".
+  
+  
